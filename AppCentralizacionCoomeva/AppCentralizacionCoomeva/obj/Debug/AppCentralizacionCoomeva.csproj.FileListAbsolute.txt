@@ -1,0 +1,13 @@
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\bin\Debug\AppCentralizacionCoomeva.exe.config
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\bin\Debug\AppCentralizacionCoomeva.exe
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\bin\Debug\AppCentralizacionCoomeva.pdb
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\obj\Debug\AppCentralizacionCoomeva.csprojAssemblyReference.cache
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\obj\Debug\AppCentralizacionCoomeva.csproj.CoreCompileInputs.cache
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\obj\Debug\AppCentralizacionCoomeva.exe
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\obj\Debug\AppCentralizacionCoomeva.pdb
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\bin\Debug\DLL_Utilidades.dll
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\bin\Debug\SharpCompress.dll
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\bin\Debug\DLL_Utilidades.pdb
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\obj\Debug\AppCentralizacionCoomeva.csproj.CopyComplete
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\bin\Debug\Excel.dll
+C:\Users\diecebch\source\repos\AppCentralizacionCoomeva\AppCentralizacionCoomeva\bin\Debug\ICSharpCode.SharpZipLib.dll
