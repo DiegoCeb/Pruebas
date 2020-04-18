@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\SLN\App.Banking.Domain\bin\Debug\netcoreapp2.1\App.Banking.Domain.deps.json
+C:\Users\pc\source\repos\SLN\App.Banking.Domain\bin\Debug\netcoreapp2.1\App.Banking.Domain.dll
+C:\Users\pc\source\repos\SLN\App.Banking.Domain\bin\Debug\netcoreapp2.1\App.Banking.Domain.pdb
+C:\Users\pc\source\repos\SLN\App.Banking.Domain\obj\Debug\netcoreapp2.1\App.Banking.Domain.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\SLN\App.Banking.Domain\obj\Debug\netcoreapp2.1\App.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SLN\App.Banking.Domain\obj\Debug\netcoreapp2.1\App.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SLN\App.Banking.Domain\obj\Debug\netcoreapp2.1\App.Banking.Domain.AssemblyInfo.cs
+C:\Users\pc\source\repos\SLN\App.Banking.Domain\obj\Debug\netcoreapp2.1\App.Banking.Domain.dll
+C:\Users\pc\source\repos\SLN\App.Banking.Domain\obj\Debug\netcoreapp2.1\App.Banking.Domain.pdb

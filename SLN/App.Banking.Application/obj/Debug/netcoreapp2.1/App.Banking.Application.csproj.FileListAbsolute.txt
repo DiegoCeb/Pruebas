@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\SLN\App.Banking.Application\bin\Debug\netcoreapp2.1\App.Banking.Application.deps.json
+C:\Users\pc\source\repos\SLN\App.Banking.Application\bin\Debug\netcoreapp2.1\App.Banking.Application.dll
+C:\Users\pc\source\repos\SLN\App.Banking.Application\bin\Debug\netcoreapp2.1\App.Banking.Application.pdb
+C:\Users\pc\source\repos\SLN\App.Banking.Application\bin\Debug\netcoreapp2.1\App.Banking.Domain.dll
+C:\Users\pc\source\repos\SLN\App.Banking.Application\bin\Debug\netcoreapp2.1\App.Banking.Domain.pdb
+C:\Users\pc\source\repos\SLN\App.Banking.Application\obj\Debug\netcoreapp2.1\App.Banking.Application.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\SLN\App.Banking.Application\obj\Debug\netcoreapp2.1\App.Banking.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SLN\App.Banking.Application\obj\Debug\netcoreapp2.1\App.Banking.Application.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SLN\App.Banking.Application\obj\Debug\netcoreapp2.1\App.Banking.Application.AssemblyInfo.cs
+C:\Users\pc\source\repos\SLN\App.Banking.Application\obj\Debug\netcoreapp2.1\App.Banking.Application.csproj.CopyComplete
+C:\Users\pc\source\repos\SLN\App.Banking.Application\obj\Debug\netcoreapp2.1\App.Banking.Application.dll
+C:\Users\pc\source\repos\SLN\App.Banking.Application\obj\Debug\netcoreapp2.1\App.Banking.Application.pdb

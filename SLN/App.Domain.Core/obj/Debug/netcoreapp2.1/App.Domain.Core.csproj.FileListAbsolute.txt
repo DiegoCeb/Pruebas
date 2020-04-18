@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\SLN\App.Domain.Core\bin\Debug\netcoreapp2.1\App.Domain.Core.deps.json
+C:\Users\pc\source\repos\SLN\App.Domain.Core\bin\Debug\netcoreapp2.1\App.Domain.Core.dll
+C:\Users\pc\source\repos\SLN\App.Domain.Core\obj\Debug\netcoreapp2.1\App.Domain.Core.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\SLN\App.Domain.Core\obj\Debug\netcoreapp2.1\App.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SLN\App.Domain.Core\obj\Debug\netcoreapp2.1\App.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SLN\App.Domain.Core\obj\Debug\netcoreapp2.1\App.Domain.Core.AssemblyInfo.cs
+C:\Users\pc\source\repos\SLN\App.Domain.Core\bin\Debug\netcoreapp2.1\App.Domain.Core.pdb
+C:\Users\pc\source\repos\SLN\App.Domain.Core\obj\Debug\netcoreapp2.1\App.Domain.Core.dll
+C:\Users\pc\source\repos\SLN\App.Domain.Core\obj\Debug\netcoreapp2.1\App.Domain.Core.pdb
